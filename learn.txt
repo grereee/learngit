@@ -2,3 +2,4 @@ git 很牛逼啊
 Git has a mutable index called stage.
 luoyue tianjia
 牛逼啊
+666
